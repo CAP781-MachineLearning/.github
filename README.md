@@ -70,7 +70,8 @@ We will closely follow the weekly schedule given below. However, weekly class sc
 
 ---
 
-### ** Course Tentative Plan: Week-by-Week Schedule**  
+### **Course Tentative Plan: Week-by-Week Schedule**  
+---
 
 #### **Unit I: Introduction to Machine Learning (Week 1)**  
 **Week 1**  
