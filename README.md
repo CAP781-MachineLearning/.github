@@ -1,9 +1,9 @@
-# CAP781-Machine-Learning.github
+# .github
 ## CAP-781 Machine Learning for MCA - Spring 2025 - Lovely Professional University
 ---
 
 **Course Instructor: Tanzeela Javid Kaloo**
----
+
 ### **Course Summary**  
 
 This course provides a comprehensive introduction to **Machine Learning (ML)** and its applications, blending theoretical foundations with practical implementations. It explores core concepts, algorithms, and methodologies that form the basis of modern machine learning and deep learning techniques.  
