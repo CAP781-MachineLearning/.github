@@ -148,10 +148,7 @@ We will closely follow the weekly schedule given below. However, weekly class sc
 
 | Practical No | Practical Description                                                                                      |
 |--------------|----------------------------------------------------------------------------------------------------------|
-| 1            | Importing and Exporting Data in Python, Data Wrangling, Exploratory Data Analysis                         |
-| 2            |                                                                                                          |
-| 3            |                                                                                                          |
-|--------------|----------------------------------------------------------------------------------------------------------|
+| 1-2-3           | Importing and Exporting Data in Python, Data Wrangling, Exploratory Data Analysis                         |
 | 4            | Implementation and performance analysis of Linear Regression, Multi Regression, Non-Linear Regression    |
 | 5            |                                                                                                          |
 | 6            |                                                                                                          |
