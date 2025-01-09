@@ -155,6 +155,5 @@ We will closely follow the weekly schedule given below. However, weekly class sc
 | 11           | Implement and compare any two ensemble-based machine learning approaches on different datasets           |
 | 12-13        | Design of an Artificial Neural Network for a given dataset                                               |
 | 14           | Implement and compare the performances of any three machine learning-based classification models         |
-|--------------|----------------------------------------------------------------------------------------------------------|
   
 
