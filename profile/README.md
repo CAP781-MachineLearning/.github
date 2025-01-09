@@ -144,3 +144,40 @@ We will closely follow the weekly schedule given below. However, weekly class sc
 - Future Trends and Challenges in Machine Learning  
 
 ---
+## Practical Lab Work
+
+### Practical 1  
+Importing and Exporting Data in Python, Data wrangling, Exploratory Data Analysis  
+
+### Practical 2  
+
+### Practical 3  
+
+### Practical 4  
+Implementation and performance analysis of Linear Regression, Multi Regression, Non-Linear Regression  
+
+### Practical 5  
+
+### Practical 6  
+
+### Practical 7  
+Implementation and performance analysis of KNN, SVM, and Logistic Regression  
+
+### Practical 8  
+
+### Practical 9  
+Implementation and performance analysis of k-Means and Hierarchical Clustering  
+
+### Practical 10  
+
+### Practical 11  
+Implement and compare any two ensemble-based machine learning approaches on different datasets  
+
+### Practical 12  
+Design of an Artificial Neural Network for a given dataset  
+
+### Practical 13  
+
+### Practical 14  
+Implement and compare the performances of any three machine learning-based classification models on different datasets  
+
