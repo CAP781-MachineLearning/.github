@@ -146,24 +146,14 @@ We will closely follow the weekly schedule given below. However, weekly class sc
 ---
 ## Practical Lab Work
 
-| Practical No | Practical Description                                                                                      |
+| Practical No | Practical Description                                                                                    |
 |--------------|----------------------------------------------------------------------------------------------------------|
-| 1-2-3           | Importing and Exporting Data in Python, Data Wrangling, Exploratory Data Analysis                         |
-| 4            | Implementation and performance analysis of Linear Regression, Multi Regression, Non-Linear Regression    |
-| 5            |                                                                                                          |
-| 6            |                                                                                                          |
-|--------------|----------------------------------------------------------------------------------------------------------|
-| 7            | Implementation and performance analysis of KNN, SVM, and Logistic Regression                             |
-| 8            |                                                                                                          |
-|--------------|----------------------------------------------------------------------------------------------------------|
-| 9            | Implementation and performance analysis of k-Means and Hierarchical Clustering                           |
-| 10           |                                                                                                          |
-|--------------|----------------------------------------------------------------------------------------------------------|
+| 1-2-3        | Importing and Exporting Data in Python, Data Wrangling, Exploratory Data Analysis                        |
+| 4-5-6        | Implementation and performance analysis of Linear Regression, Multi Regression, Non-Linear Regression    |
+| 7-8          | Implementation and performance analysis of KNN, SVM, and Logistic Regression                             |
+| 9-10         | Implementation and performance analysis of k-Means and Hierarchical Clustering                           |
 | 11           | Implement and compare any two ensemble-based machine learning approaches on different datasets           |
-|--------------|----------------------------------------------------------------------------------------------------------|
-| 12           | Design of an Artificial Neural Network for a given dataset                                               |
-| 13           |                                                                                                          |
-|--------------|----------------------------------------------------------------------------------------------------------|
+| 12-13        | Design of an Artificial Neural Network for a given dataset                                               |
 | 14           | Implement and compare the performances of any three machine learning-based classification models         |
 |--------------|----------------------------------------------------------------------------------------------------------|
   
